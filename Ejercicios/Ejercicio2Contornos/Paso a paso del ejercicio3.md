@@ -1,6 +1,6 @@
 # Ejercicio 3 CD. Conflictos al tener varios archivos .gitignore.
 
-Enlace al repositorio en el que se ha realizado este trabajo: https://github.com/MateoCarballo/Ejercicio3Contornos
+Enlace al repositorio en el que se ha realizado este trabajo: <https://github.com/MateoCarballo/Ejercicio3Contornos>
 
 1. Creamos un nuevo proyecto y un nuevo repositorio (fuera de los principales de la materia lo referenciaremos con un enlace)
 2. Ese repositorio llamado Ejercicio3 GitHub lo crearemos con un gitignore y un readme.
@@ -9,19 +9,20 @@ Estos entrarán en conflicto con los otros del proyecto y tendremos que solucion
 
 ![Alt text](img/1%20Foto%20creaci%C3%B3n%20proyecto%20con%20la%20casilla%20crear%20repositorio.jpg)
 
-4. Comprobamos que el proyecto esta vacio y sin comitear pero tenemos archivos añadidos en el área intermedia que no hemos añadido mediante el comando  ´ git add´<nombre fichero>''' 
-
+4. Comprobamos que el proyecto esta vacio y sin comitear pero tenemos archivos añadidos en el área intermedia que no hemos añadido mediante el comando
+```bash
+"git add" <nombre fichero>
+```
 ![Alt text](img/2.%20Primeros%20comandos%20Git%20se%20muestra%20que%20no%20hay%20commit%20ni%20nada%20hecho.jpg)
 
 5. Intentamos pullear pero vemos que aborta. Hay un conflito al tener archivos duplicados en el repo remoto y el staging area.
 
 ![Alt text](img/3.%20Fallo%20por%20conflicto.jpg)
 
-6. Borramos todos los archivos del area intermedia, deshacemos el paso previo al ''' 
+6. Borramos todos los archivos del area intermedia, deshacemos el paso previo al commit   
+7. ![Alt text](img/4.%20Borrando%20del%20area%20intermedia.jpg)
 
-commit'''![Alt text](img/4.%20Borrando%20del%20area%20intermedia.jpg)
-
-7. Aunque borremos los archivos del area intermedia seguimos con el mismo problema. La solucion a esto es eliminar el archivo gitignore de nuestro repo local. Una vez lo hayamos hecho ya podremos pullear desde el repo remoto
+7. Aunque borremos los archivos del area intermedia seguimos con el mismo problema. La solucion a esto es eliminar el archivo .gitignore de nuestro repo local. Una vez lo hayamos hecho ya podremos pullear desde el repo remoto
 
 [label](img/5.%20Vuelve%20a%20salir%20el%20error%20de%20conflicto%20aun%20habiendo%20quitado%20todos%20los%20elementos%20del%20area%20intermedia.jpg%0D) ![Alt text](img/4.%20Borrando%20del%20area%20intermedia.jpg)
 
