@@ -1,3 +1,7 @@
+# Ejercicio 3 CD. Conflictos al tener varios archivos .gitignore.
+
+Enlace al repositorio en el que se ha realizado este trabajo: https://github.com/MateoCarballo/Ejercicio3Contornos
+
 1. Creamos un nuevo proyecto y un nuevo repositorio (fuera de los principales de la materia lo referenciaremos con un enlace)
 2. Ese repositorio llamado Ejercicio3 GitHub lo crearemos con un gitignore y un readme.
 Estos entrarán en conflicto con los otros del proyecto y tendremos que solucionarlo.
