@@ -3,8 +3,9 @@
 
 # Ejercicio 4 Contornos Primer Trimestre
 
-Enlace al repositorio donde se hizo este ejercicio: https://github.com/MateoCarballo/Ejercicio4Contornos
+Enlace al repositorio donde se hizo este ejercicio: 
 
+[Repo de trabajo Ejercicio4 para comprobar los commits](https://github.com/MateoCarballo/Ejercicio4Contornos).
 
 1. Creacion de los directorios.
 
