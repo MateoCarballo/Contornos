@@ -3,6 +3,9 @@
 
 # Ejercicio 4 Contornos Primer Trimestre
 
+Enlace al repositorio donde se hizo este ejercicio: https://github.com/MateoCarballo/Ejercicio4Contornos
+
+
 1. Creacion de los directorios.
 
     Dentro de la carpeta ejercicio 4 creamos las carpetas ordenador 1 y 2. El archivo  
