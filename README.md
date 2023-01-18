@@ -7,7 +7,7 @@
   · [Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
   
 <details>
-<summary>Enlaces a páginas curiosas</summary>
+<summary>UTILIDADES</summary>
 
 | Nombre |
 |-----:|
