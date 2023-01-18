@@ -1,7 +1,7 @@
 # Contornos
-  [Volver](https://github.com/MateoCarballo/Principal)
-    
-    Repo ejercicios:[Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
+[Volver](https://github.com/MateoCarballo/Principal)
+      
+[Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
   
 <details>
 <summary> UTILIDADES </summary>
