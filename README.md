@@ -2,6 +2,10 @@
 
   Repositorio con todo el material acumulado hecho en clase. Ejercicios y ejemplos.
   
+  Enalces a repositorios de ejercicios:
+  
+  · [Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
+  
 <details>
 <summary>Enlaces a páginas curiosas</summary>
 
