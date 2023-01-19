@@ -1,5 +1,5 @@
 # Contornos
-[Volver](https://github.com/MateoCarballo/Principal)
+[Enlace repo principal](https://github.com/MateoCarballo/Principal)
       
 [Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
   
