@@ -4,6 +4,4 @@
 
 1.Ejercicios Diagramas.
 
- Ejercicios de diagramas de clase, UML. Repositorio con los ejercicios 1 y 2.
-
- ·[Ejercicios-Diagramas](https://github.com/MateoCarballo/Ejercicios-Diagramas)
+ ·[Ejercicios-Diagramas 1 y 2](https://github.com/MateoCarballo/Ejercicios-Diagramas)
