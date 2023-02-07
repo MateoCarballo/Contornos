@@ -2,12 +2,12 @@
 
 [Enlace repo principal](https://github.com/MateoCarballo/Principal)
 
-## 1.Ejercicios Diagramas.
+## 1.Ejercicios Diagramas Clase.
 
  ·[Ejercicios 1 y 2](https://github.com/MateoCarballo/Ejercicios-Diagramas)
  
- 
- 
+## 2. Ejercicios Propuestos AulaVirtual.
+ ·[Propuestos]()
  
  
  
