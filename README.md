@@ -7,7 +7,7 @@
  ·[Ejercicios 1 y 2](https://github.com/MateoCarballo/Ejercicios-Diagramas)
  
 ## 2. Ejercicios Propuestos AulaVirtual.
- ·[Propuestos]()
+ ·[Propuestos](https://github.com/MateoCarballo/Ejercicios-Diagramas-AulaVirtual)
  
  
  
