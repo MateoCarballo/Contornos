@@ -15,7 +15,7 @@
  
  ·[Metodología Scrum](https://github.com/MateoCarballo/SCRUM/blob/main/README.md)
  
- <!--TODO  Mierdas varis para tener en cuenta comentadas en clase 
+ <!--TODO  Mierdas varias para tener en cuenta comentadas en clase 
 
 Excepciones "Catch".
 Metodo factoria.
