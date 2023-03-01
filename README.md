@@ -10,7 +10,8 @@
  ·[Propuestos](https://github.com/MateoCarballo/Ejercicios-Diagramas-AulaVirtual)
  
  
- 
+ ## 3. Ejercicios principios SOLID.
+ ·[Ejercicio Netflix/Avatar]()
  ### Notas.
  
  ·[Metodología Scrum](https://github.com/MateoCarballo/SCRUM/blob/main/README.md)
