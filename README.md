@@ -11,7 +11,7 @@
  
  
  ## 3. Ejercicios principios SOLID.
- ·[Ejercicio Netflix/Avatar]()
+ ·[Ejercicio Netflix/Avatar](https://github.com/MateoCarballo/Ejercicios-Principios-SOLID)
  ### Notas.
  
  ·[Metodología Scrum](https://github.com/MateoCarballo/SCRUM/blob/main/README.md)
