@@ -4,10 +4,10 @@
 
 | Nombre | Enlace |
 | --- | --- |
-| Ejercicios Diagramas Clase | [Enlace](https://github.com/MateoCarballo/Ejercicios-Diagramas) |
-| Ejercicios Propuestos AulaVirtual | [Enlace](https://github.com/MateoCarballo/Ejercicios-Diagramas-AulaVirtual) |
-| Ejercicios principios SOLID | [Enlace](https://github.com/MateoCarballo/Ejercicios-Principios-SOLID) |
-|Examen 2º Trimestre Ejercicio1|[Acceso Directo](./02_Segundo%20Trimestre/Examen-Tercer_Trimeste/)|
+| Ejercicios Diagramas Clase | [Enlace](./02_Segundo%20Trimestre/Ejercicios-Diagramas/) |
+| Ejercicios Propuestos AulaVirtual | [Enlace](./02_Segundo%20Trimestre/Ejercicios-Diagramas-AulaVirtual/) |
+| Ejercicios principios SOLID | [Enlace](./02_Segundo%20Trimestre/Ejercicios-Principios-SOLID/) |
+|Examen 2º Trimestre Ejercicio1|[Acceso Directo](./02_Segundo%20Trimestre/Examen-Tercer_Trimestre/)|
 ### Notas.
  
  ·[Metodología Scrum](https://github.com/MateoCarballo/SCRUM/blob/main/README.md)
