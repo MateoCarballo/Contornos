@@ -1,18 +1,14 @@
-# Contornos-de-Desenvolvemento
+# Contornos-de-Desenvolvemento 💡
 
 [Enlace repo principal](https://github.com/MateoCarballo/Principal)
 
-## 1.Ejercicios Diagramas Clase.
-
- ·[Ejercicios 1 y 2](https://github.com/MateoCarballo/Ejercicios-Diagramas)
- 
-## 2. Ejercicios Propuestos AulaVirtual.
- ·[Propuestos](https://github.com/MateoCarballo/Ejercicios-Diagramas-AulaVirtual)
- 
- 
- ## 3. Ejercicios principios SOLID.
- ·[Ejercicio Netflix/Avatar](https://github.com/MateoCarballo/Ejercicios-Principios-SOLID)
- ### Notas.
+| Nombre | Enlace |
+| --- | --- |
+| Ejercicios Diagramas Clase | [Enlace](https://github.com/MateoCarballo/Ejercicios-Diagramas) |
+| Ejercicios Propuestos AulaVirtual | [Enlace](https://github.com/MateoCarballo/Ejercicios-Diagramas-AulaVirtual) |
+| Ejercicios principios SOLID | [Enlace](https://github.com/MateoCarballo/Ejercicios-Principios-SOLID) |
+|Examen 2º Trimestre Ejercicio1|[Acceso Directo](./02_Segundo%20Trimestre/Examen-Tercer_Trimeste/)|
+### Notas.
  
  ·[Metodología Scrum](https://github.com/MateoCarballo/SCRUM/blob/main/README.md)
  
@@ -36,3 +32,4 @@ Ocultar informacion campos privados y usar getter y setter.
 En empleado nombre edad y sueldo en private.
 
 Constructor generico sin atributos y llamar setter de cada atributo.-->
+
