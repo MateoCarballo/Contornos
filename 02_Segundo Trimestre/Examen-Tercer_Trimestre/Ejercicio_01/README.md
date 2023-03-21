@@ -1,4 +1,7 @@
 
+# Enunciado. 
+
+## Parte 1.
 Nos han contratado para diseñar un software de alquiler de vehículos. Nos hemos reunido con el
 cliente para definir los requisitos.
 Para cada vehículo, conocemos la marca y el modelo. Los vehículos que se alquilan son motos,
@@ -15,11 +18,13 @@ Cada vez que se realiza una reparación, se debe registrar la fecha y el resulta
 También se necesita tener un registro de los accidentes que ha sufrido cada vehículo, de los cuales
 se necesita saber la fecha del accidente y la gravedad.
 
+
+
     Desarrolla un diagrama UML que cumpla con los requisitos propuestos por el cliente.
 		
 		
 		
-
+## Parte 2.
 Se nos ha pedido que añadamos algunas funcionalidades exclusivas para los vehículos a motor y
 otras funcionalidades exclusivas para los vehículos sin motor. Los vehículos a motor ahora tienen la
 funcionalidad de verificar la salud del motor con el método engineStatus(). Los vehículos sin motor
