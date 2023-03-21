@@ -6,7 +6,7 @@ public class Bicicleta extends Vehiculo{
 
     private String numerodeSerie;
 
-    public Bicicleta(String marca, String modelo, ArrayList<Accidente> listadoAccidentes, ArrayList<Reparacion> listadoReparaciones, String numerodeSerie) {
+    public Bicicleta(String marca, String modelo, ArrayList<Z_Accidente> listadoAccidentes, ArrayList<Z_Reparacion> listadoReparaciones, String numerodeSerie) {
         super(marca, modelo, listadoAccidentes, listadoReparaciones);
         this.numerodeSerie = numerodeSerie;
     }

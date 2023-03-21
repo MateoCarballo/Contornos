@@ -6,10 +6,10 @@ public abstract class Vehiculo {
 
     private String marca;
     private String modelo;
-    private ArrayList <Accidente>   listadoAccidentes     =   new ArrayList();
-    private ArrayList <Reparacion>  listadoReparaciones  =   new ArrayList();
+    private ArrayList <Z_Accidente>   listadoAccidentes     =   new ArrayList();
+    private ArrayList <Z_Reparacion>  listadoReparaciones  =   new ArrayList();
 
-    public Vehiculo(String marca, String modelo, ArrayList<Accidente> listadoAccidentes, ArrayList<Reparacion> listadoReparaciones) {
+    public Vehiculo(String marca, String modelo, ArrayList<Z_Accidente> listadoAccidentes, ArrayList<Z_Reparacion> listadoReparaciones) {
         this.marca = marca;
         this.modelo = modelo;
         this.listadoAccidentes = listadoAccidentes;
@@ -32,19 +32,19 @@ public abstract class Vehiculo {
         this.modelo = modelo;
     }
 
-    public ArrayList<Accidente> getListadoAccidentes() {
+    public ArrayList<Z_Accidente> getListadoAccidentes() {
         return listadoAccidentes;
     }
 
-    public void setListadoAccidentes(ArrayList<Accidente> listadoAccidentes) {
+    public void setListadoAccidentes(ArrayList<Z_Accidente> listadoAccidentes) {
         this.listadoAccidentes = listadoAccidentes;
     }
 
-    public ArrayList<Reparacion> getListadoReparaciones() {
+    public ArrayList<Z_Reparacion> getListadoReparaciones() {
         return listadoReparaciones;
     }
 
-    public void setListadoReparaciones(ArrayList<Reparacion> listadoReparaciones) {
+    public void setListadoReparaciones(ArrayList<Z_Reparacion> listadoReparaciones) {
         this.listadoReparaciones = listadoReparaciones;
     }
 }

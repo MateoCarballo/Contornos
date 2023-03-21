@@ -6,7 +6,7 @@ public class Moto extends VehiculoMotor{
 
     private int potencia;
 
-    public Moto(String marca, String modelo, ArrayList<Accidente> listadoAccidentes, ArrayList<Reparacion> listadoReparaciones, String matricula, int potencia) {
+    public Moto(String marca, String modelo, ArrayList<Z_Accidente> listadoAccidentes, ArrayList<Z_Reparacion> listadoReparaciones, String matricula, int potencia) {
         super(marca, modelo, listadoAccidentes, listadoReparaciones, matricula);
         this.potencia = potencia;
     }

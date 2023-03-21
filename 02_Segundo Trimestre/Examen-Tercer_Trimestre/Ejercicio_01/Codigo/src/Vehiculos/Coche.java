@@ -7,7 +7,7 @@ public class Coche extends VehiculoMotor{
     private String tipodeCombustible;
     private String numerodePlazas;
 
-    public Coche(String marca, String modelo, ArrayList<Accidente> listadoAccidentes, ArrayList<Reparacion> listadoReparaciones, String matricula, String tipodeCombustible, String numerodePlazas) {
+    public Coche(String marca, String modelo, ArrayList<Z_Accidente> listadoAccidentes, ArrayList<Z_Reparacion> listadoReparaciones, String matricula, String tipodeCombustible, String numerodePlazas) {
         super(marca, modelo, listadoAccidentes, listadoReparaciones, matricula);
         this.tipodeCombustible = tipodeCombustible;
         this.numerodePlazas = numerodePlazas;
