@@ -1,0 +1,51 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="164px" viewBox="-0.5 -0.5 251 164" content="&lt;mxfile&gt;&lt;diagram id=&quot;qciPOcCs5konxwJ3BNEQ&quot; name=&quot;Page-1&quot;&gt;7VZRb5swEP41SO1DpwBJmj4W0nWTWqlqJu35Ag5YNRwyTkj663fGpkCgaqam0h4mRZHvuztzd99ng+OH2f5eQpE+YsyE403iveMvHc+bzaf0r4GDBfyFARLJYwO5LbDir8yCE4tueczKXqBCFIoXfTDCPGeR6mEgJVb9sA2K/lMLSNgAWEUghuhvHqvUoAvvusV/MJ6kzZPd+Y3xZNAE207KFGKsOpB/5/ihRFRmle1DJvTsmrmYvO/veN8KkyxXpyTMTMIOxNb2Fm4pFQgLII9AclrOHc+n0fuBrVkdmkGUFc8E5GQFG8zVynpcskHwJKd1RNsxScCOScVphrfWobAgNEq5iB/ggFtdb6kgemmsIEXJX2lbEHZPcktl5UBVdSNWOpNgXaZkJcU8NUNwj6BH2PcCH6BUFohQCChKvn5rIwOZ8DxApTCzQcMZ27HrDtm+A9mZ3zPMmJIHCqlauXgzq4G0K5W5BcFKNHnLbVmkhSVynNT5gNQrXbDkO1CMVmsgziJy3eoziFvdbZfk8eUR9dSpqimR+MJCFEgcL3M0WuBCHEGNHATbqBExZDyO9c5BWUDE8+ShDltOW+TZDklDSOkbUZ+blBJZrrlEBQoMcbrgAnmu6iHOAvrRWMPJt5kzo9pDst3Wpp8OlyrEnNoBXtPKSBUV08roSXvS2EaFrj8qiNnJgrA3YMPZh/qYfl4eN0N5tNrg+rRS28/aPEEg/1XB7OO/QBXTyWmq8M5waVwPVDEgV/CaNENu8+Jzz8LsL/0yWF65A679Idf+CK8C1kw8YckVR72/NLFHfH9E6Rkom59I2eLzjC1GGAtiVugpXJhTe2mO8A4pJ/Sc20nv7AYVV2ksoRqJ7sUlTAXmnXFx+e6lEJRM/ezcHqeVkBwlvVfDl94z5lPkX7xkzqHIxWmKvPH+WpJktp+qta/zve/f/QE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-26-242-14-0">
+            <rect x="4" y="26" width="242" height="14"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-40-242-20-0">
+            <rect x="4" y="40" width="242" height="20"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-73-242-92-0">
+            <rect x="4" y="73" width="242" height="92"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 250 0 L 250 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 160 L 250 160 L 250 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 250 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="124.5" y="17.5">
+                Cuenta Bancaria
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-26-242-14-0)" font-size="13px">
+            <text x="5.5" y="39.5">
+                - private balance: double
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-decoration="underline" pointer-events="none" clip-path="url(#mx-clip-4-40-242-20-0)" font-size="13px">
+            <text x="5.5" y="53.5">
+                -private interestRate: double
+            </text>
+        </g>
+        <path d="M 0 64 L 250 64" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-73-242-92-0)" font-size="12px">
+            <text x="5.5" y="85.5">
+                +deposit(double): void
+            </text>
+            <text x="5.5" y="99.5">
+                +withdraw(double): void
+            </text>
+            <text x="5.5" y="113.5">
+                +getBalance(): double
+            </text>
+            <text x="5.5" y="127.5">
+                +setInterestRate(double): void
+            </text>
+            <text x="5.5" y="141.5">
+                +getInterestRate(): void
+            </text>
+        </g>
+    </g>
+</svg>
