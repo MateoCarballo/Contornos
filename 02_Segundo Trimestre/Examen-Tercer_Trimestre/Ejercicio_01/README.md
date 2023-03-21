@@ -15,7 +15,7 @@ Cada vez que se realiza una reparación, se debe registrar la fecha y el resulta
 También se necesita tener un registro de los accidentes que ha sufrido cada vehículo, de los cuales
 se necesita saber la fecha del accidente y la gravedad.
 
-		Desarrolla un diagrama UML que cumpla con los requisitos propuestos por el cliente.
+    Desarrolla un diagrama UML que cumpla con los requisitos propuestos por el cliente.
 		
 		
 		
