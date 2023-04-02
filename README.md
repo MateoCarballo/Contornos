@@ -17,3 +17,5 @@
  Incluir en el indice el microproyecto
 -->
 
+- [x] **Ejercicio propuesto final 2º Trimestre**
+- [ ] **Microservicios Springboot**
