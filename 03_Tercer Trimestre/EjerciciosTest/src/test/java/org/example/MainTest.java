@@ -18,13 +18,13 @@ class MainTest {
     void calcularDivision() throws Exception {
         //TODO tengo la duda de como asegurarme de que salta la excepción,
         // entiendo que en este caso es muy simple entiendo que asi no esta bien
-        Assertions.assertEquals(Main.calcularDivision(34.56f,2.16f),16.00f);
+        Assertions.assertEquals(Mates.calcularDivision(34.56f,2.16f),16.00f);
         // Assertions.assertEquals(Main.calcularDivision(34.56f,0f),"Error. El número tiene que ser >=0");
     }
 
     @org.junit.jupiter.api.Test
     void factorial() throws Exception {
-    Assertions.assertEquals(Main.factorial((byte)5),120f);
+    Assertions.assertEquals(Mates.factorial((byte)5),120f);
     }
 
     @org.junit.jupiter.api.Test
@@ -34,7 +34,7 @@ class MainTest {
                 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
         for (int i = 0; i < abecedario.length; i++) {
-            Assertions.assertTrue(Main.busca(abecedario[i],abecedario));
+            Assertions.assertTrue(Mates.busca(abecedario[i],abecedario));
         }
 
     }
@@ -43,7 +43,7 @@ class MainTest {
     void obtenerAcronimo() {
         String name0 = "Mateo Carballo Alonso";
         String name1 = "Angel Carballo Iglesias";
-        Assertions.assertEquals("M.C.A.",Main.obtenerAcronimo(name0));
-        Assertions.assertEquals("A.C.I.",Main.obtenerAcronimo(name1));
+        Assertions.assertEquals("M.C.A.",UtilidadesArrays.obtenerAcronimo(name0));
+        Assertions.assertEquals("A.C.I.",UtilidadesArrays.obtenerAcronimo(name1));
     }
 }
