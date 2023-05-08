@@ -4,11 +4,9 @@ import junit.framework.TestCase;
 
 public class MetodosParaTestearTest extends TestCase {
 
-
-
     public void testCalcularDivision() throws Exception {
         MetodosParaTestear m = new MetodosParaTestear();
-        assertEquals(3.4f,m.calcularDivision(8.5f, 2.5f));
+        assertEquals(3.4f, MetodosParaTestear.calcularDivision(8.5f, 2.5f));
     }
 
     public void testFactorial() throws Exception {
