@@ -1,5 +1,8 @@
 package org.example;
 
+/**
+ * Esta clase contiene varios metodos recurrentes de uso comun relacionado con operaciones matemáticas.
+ */
 public final class Mates {
     /**
      * Constructor privado para que no podamos instanciar ningun objeto de esta clase.
@@ -12,20 +15,18 @@ public final class Mates {
     /**
      * @param dividendo
      * @param divisor
-     * @return el cociente de la division
+     * @return Este metodo tiene dos parametros de entrada y nos devuelve el resultado de la división.
      * @throws Exception
      */
     public static float calcularDivision(float dividendo, float divisor) throws Exception {
         if (divisor == 0) throw (new Exception("Error. El divisor no puede ser 0."));
         return dividendo / divisor;
     }
-
     /**
-     * @param n
-     * @return
+     * @param n numero del que vamos a calcular su factorial.
+     * @return Devuelve el resultado de calcular el factorial de 'n'.
      * @throws Exception
      */
-
     public static float factorial(byte n) throws Exception {
         if (n < 0) throw new Exception("Error. El número tiene que ser >=0");
         float resultado = 1;
@@ -33,22 +34,4 @@ public final class Mates {
         return resultado;
     }
 
-    /**
-     * @param c
-     * @param v
-     * @return
-     */
-    public static boolean busca(char c, char[] v) {
-        int a, z, m;
-        a = 0;
-        z = v.length - 1;
-        boolean resultado = false;
-        while (a <= z && resultado == false) {
-            m = (a + z) / 2;
-            if (v[m] == c) resultado = true;
-            else if (v[m] < c) a = m + 1;
-            else z = m - 1;
-        }
-        return resultado;
-    }
 }
