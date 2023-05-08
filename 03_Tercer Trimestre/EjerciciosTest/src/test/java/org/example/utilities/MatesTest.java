@@ -1,6 +1,5 @@
-package org.example;
+package org.example.utilities;
 
-import org.junit.Assert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;

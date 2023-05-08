@@ -1,4 +1,4 @@
-package org.example;
+package org.example.utilities;
 
 /**
  * Esta clase contiene varios metodos recurrentes de uso comun relacionado con operaciones matemáticas.

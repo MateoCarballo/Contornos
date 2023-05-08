@@ -1,4 +1,4 @@
-package org.example;
+package org.example.utilities;
 
 import org.junit.jupiter.api.Assertions;
 
@@ -34,7 +34,7 @@ class MainTest {
                 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
                 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'};
         for (int i = 0; i < abecedario.length; i++) {
-            Assertions.assertTrue(UtilidadesArrays.busca(abecedario[i],abecedario));
+            Assertions.assertTrue(ArraysUtilities.buscarCaracteresEnArray(abecedario[i],abecedario));
         }
 
     }
@@ -43,7 +43,7 @@ class MainTest {
     void obtenerAcronimo() {
         String name0 = "Mateo Carballo Alonso";
         String name1 = "Angel Carballo Iglesias";
-        Assertions.assertEquals("M.C.A.",UtilidadesArrays.obtenerAcronimo(name0));
-        Assertions.assertEquals("A.C.I.",UtilidadesArrays.obtenerAcronimo(name1));
+        Assertions.assertEquals("M.C.A.", StringUtilities.obtenerAcronimo(name0));
+        Assertions.assertEquals("A.C.I.", StringUtilities.obtenerAcronimo(name1));
     }
 }
